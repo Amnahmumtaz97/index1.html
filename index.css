@@ -1,0 +1,170 @@
+.logopic{
+    width: 100px;
+    height: 100px;
+    display: inline;
+    padding-left: 15px;
+    background: transparent;
+}
+
+ul>h1{
+
+    text-align: center;
+    display: inline-block;
+    color: pink;
+    font-size: xx-large;
+}
+
+ul>img{
+    width: 100vw;
+    height: auto;
+    background-color: black;
+}
+
+.square{
+    height: 180px;
+    border:3px solid rgb(42, 23, 23);
+    background-color: rgba(34, 45, 127, 0.838);
+    display: block;
+}
+
+li{
+    display: inline-flex;
+}
+
+.a{
+    margin-left: 950px;
+    padding: 2px;
+    justify-content: flex-end;
+    color: aliceblue;
+
+}
+
+.b{
+    margin-left: 50px;
+    padding: 2px;
+    justify-content: flex-end;
+    color: aliceblue;
+
+}
+
+.c{
+    margin-left: 50px;
+    padding: 2px;
+    justify-content: flex-end;
+    color: aliceblue;
+    
+}
+
+.header
+{
+    background-image: url(./background.jpg);
+    background-size: 100% 100%;
+
+    height: 900px;;
+    border: 5px solid rgb(4, 10, 0);
+}
+
+.card1{
+    width: 20%;
+    height: 20%;
+
+    padding: 20px;
+    background-color: rgba(219, 110, 110, 0.8);/* Replace with your desired RGB color values and opacity */
+    border:3px solid #05165acc;
+    margin: 100px auto auto auto;
+    display: inline-block;
+    text-align: center;
+    margin-right: 50px; /* Add margin-right to create a gap */
+    margin-left: 100px;
+    justify-content: center;
+    color: rgb(47, 5, 5);
+    /* Define the stacking order with z-index */
+    z-index: 1;
+  }
+  
+  
+.card2{
+    width: 20%;
+    height: 20%;
+
+    padding: 20px;
+    background-color: rgba(219, 110, 110, 0.8); /* Replace with your desired RGB color values and opacity */
+    border:3px solid  #05165acc;
+    margin: 100px auto auto auto;
+    display: inline-block;
+    text-align: center;
+    margin-left: 50px;
+    color: rgb(47, 5, 5);
+    margin-right: 50px; /* Add margin-right to create a gap */
+    justify-content: center;
+
+    /* Define the stacking order with z-index */
+    z-index: 1;
+  }
+  
+  
+.card3{
+    width: 20%;
+    height: 20%;
+    padding: 20px;
+    background-color: rgba(219, 110, 110, 0.8); /* Replace with your desired RGB color values and opacity */
+    border:3px solid  #05165acc;
+    margin: 100px auto auto auto;
+    display: inline-block;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    justify-content: center;
+    color: rgb(47, 5, 5);
+    /* Define the stacking order with z-index */
+    z-index: 1;
+  }
+
+.t1{margin-top: 100px;
+    margin-left: 150px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(152, 136, 56, 0.922);
+    justify-content: flex;
+    display: inline;
+    color: aliceblue;
+}
+  
+.t2{margin-top: 100px;
+    margin-left: 220px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(152, 136, 56, 0.922);
+    justify-content: flex;
+    display: inline;
+    color: aliceblue;
+}
+.t3{margin-top: 100px;
+    margin-left: 210px;
+    padding: 20px;
+    text-align: center;
+    background-color: rgba(152, 136, 56, 0.922);
+    justify-content: flex;
+    display: inline;
+    color: aliceblue;
+}
+  
+.text-on-background {
+    /* Add styles for the text on background image */
+    text-align: center;
+    margin-top: 100px; /* Adjust margin-top value as needed */
+    padding: 20px;
+    color:aliceblue;
+    font-size: small;
+    background-color: rgba(219, 110, 110, 0.2); /* Replace with your desired RGB color values and opacity */
+  }
+  
+  .footer {
+    /* Add styles for the footer */
+    text-align: center;
+    color: aliceblue;
+    margin-top: 100px; 
+    font-size: x-small;/* Adjust margin-top value as needed */
+  }
+  
